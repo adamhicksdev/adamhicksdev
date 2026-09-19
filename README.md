@@ -1,35 +1,54 @@
 <div align="center">
-  <img height="150" src="https://github.com/adamhicksdev/readme-images/blob/59b5496e74448489f8eeba7b75f9671f06f7f9ca/adamhicks.jpg"  />
+  <a href="https://adamhicksdev.com/"><img src="https://img.shields.io/badge/Website-adamhicksdev.com-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Website" /></a>
+  <a href="mailto:radamail@gmail.com"><img src="https://img.shields.io/badge/Email-radamail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  <a href="https://github.com/adamhicksdev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-adamhicksdev-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
 </div>
 
 ###
 
+<h1 align="center">Howdy, I'm Adam. 👋</h1>
+
+<h3 align="center">IT & AI Coach | GoalSmasher Tutoring</h3>
+
+<p align="center">Helping IT professionals level up with practical AI, automation, and development skills.</p>
+
+###
+
+## 🚀 About Me
+
+- 🏢 Founder of **GoalSmasher Tutoring** — focused coaching for IT & AI professionals
+- 🤖 Passionate about local LLMs, AI agents, and automation workflows that save real time
+- 🐧 Linux enthusiast — NixOS, Debian, and desktop customization
+- 🛒 Building an e-commerce business with Etsy & Printify
+- 📚 Lifelong learner exploring the intersection of AI and practical problem-solving
+- 🏆 Arctic Code Vault Contributor
+- 📍 Based in Van Buren Township, Michigan
+
+## 🛠 Tech Stack
+
+**Languages:** Python · JavaScript · Shell · C#
+
+**Platforms & Tools:** NixOS · Debian · Git · VS Code · GitHub · Jira · Selenium
+
+**AI & ML:** OpenRouter · Hugging Face · Local LLMs · AI Agent Development
+
+**E-commerce:** Etsy · Printify
+
+## 🎯 GoalSmasher Tutoring
+
+GoalSmasher Tutoring provides focused, practical coaching for IT professionals who want to:
+
+- Build real-world AI and automation skills
+- Navigate the local LLM landscape with confidence
+- Strengthen command-line and Linux proficiency
+- Launch and grow online businesses with modern tools
+
+Interested in working together? [Reach out](mailto:radamail@gmail.com) or visit [adamhicksdev.com](https://adamhicksdev.com/).
+
+## 🔥 GitHub Stats
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-</div>
-
-###
-
-<h3 align="left">Howdy, I'm Adam. 👋</h3>
-
-###
-
-<p align="left">About Me:<br><br>💡  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.<br>🎓  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..<br>✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>✉️  You can shoot me an email at radamail@gmail.com! I'll try to respond as soon as I can.<br>📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!</p>
-
-###
-
-<p align="left">🛠  Tech Stack<br><br>Python  JavaScript  C#  Agile <br>Jira Selenium  HTML  CSS  GitHub <br>Visual Studio Code  NixOS Debian</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adamhicksdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=adamhicksdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
