@@ -2,6 +2,7 @@
   <a href="https://adamhicksdev.com/"><img src="https://img.shields.io/badge/Website-adamhicksdev.com-0066CC?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" alt="Website" /></a>
   <a href="mailto:radamail@gmail.com"><img src="https://img.shields.io/badge/Email-radamail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
   <a href="https://github.com/adamhicksdev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-adamhicksdev-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/adamhicksnoble"><img src="https://img.shields.io/badge/LinkedIn-adamhicksnoble-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
 </div>
 
 ###
@@ -44,6 +45,13 @@ GoalSmasher Tutoring provides focused, practical coaching for IT professionals w
 - Launch and grow online businesses with modern tools
 
 Interested in working together? [Reach out](mailto:radamail@gmail.com) or visit [adamhicksdev.com](https://adamhicksdev.com/).
+
+## 📂 Featured Repositories
+
+| Repo | Description |
+|------|-------------|
+| [goalsmasher-tutoring](https://github.com/adamhicksdev/goalsmasher-tutoring) | Landing page for GoalSmasher Tutoring — live site with services and contact info |
+| [dotfiles](https://github.com/adamhicksdev/dotfiles) | NixOS system configuration, home-manager setup, and dotfiles |
 
 ## 🔥 GitHub Stats
 
